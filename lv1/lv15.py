@@ -1,0 +1,1 @@
+fhand = open("song.txt")
